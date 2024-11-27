@@ -384,7 +384,7 @@ function algorithm(n) {
 $$
 \begin{align*}
 T(n) &= 2n(n+1)+(5n+1)+2\qquad完整公式\\ &= 2n^2+7n+3 \\ 
-\\T(n)&= n^2+n\qquad\qquad\qquad\qquad\qquad简略公式
+T(n)&= n^2+n\qquad\qquad\qquad\qquad\qquad简略公式
 \end{align*}
 $$
 
